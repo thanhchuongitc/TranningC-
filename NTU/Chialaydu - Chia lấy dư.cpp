@@ -5,7 +5,7 @@ int main()
 {
     int n,k;
     cin >> n >> k;
-    vector<int> v (10005,false);
+    vector<int> v (100005,false);
     int x;
     int dem = 0;
     while (n--)
